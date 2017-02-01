@@ -1,0 +1,22 @@
+{
+  "name": "meetup-slack-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/john-goldsmith/slack-meetup-bot"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/john-goldsmith/slack-meetup-bot",
+  "devDependencies": {
+    "dotenv": "^2.0.0",
+    "moment": "^2.14.1",
+    "popsicle": "^8.0.2"
+  }
+}
